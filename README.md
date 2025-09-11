@@ -10,7 +10,7 @@ The Chromedriver executable in the same directory as the script. You can downloa
 How to Use
 Make sure all prerequisites are installed.
 Run the script from your terminal:
-python "comic download.txt"
+python main.py
 
 
 The script will prompt you to enter the name of the comic you want to search for.
