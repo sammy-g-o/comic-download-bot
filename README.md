@@ -1,13 +1,13 @@
-Comic Search Script
+# Comic Search Script
 This Python script uses Selenium to automate a search for a specific comic on the website getcomics.org.
-Prerequisites
+## Prerequisites
 Python installed on your system.
 The selenium library:
 pip install selenium
 
 
 The Chromedriver executable in the same directory as the script. You can download it from the official Chromedriver website.
-How to Use
+## How to Use
 Make sure all prerequisites are installed.
 Run the script from your terminal:
 python main.py
